@@ -51,6 +51,9 @@ HDFCBANK - PUB AND PRI
 10.0.2.0/24 - 256 - pri sub
 
 
+8. Monolythic and Microservices based architecture
+
+
 *.Scope of the project
         Restrict remote user to access the private subnet directly 
 
